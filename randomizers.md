@@ -6,6 +6,4 @@
 - Pokemon must be released if it dies
 
 ## Randomizer rules
-- Timing starts when the game is turned on
-- Timing ends after the credits or the last meaningful action, whichever comes last
 - Glitches are not allowed
