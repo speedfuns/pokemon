@@ -1,4 +1,4 @@
-# Pokemon HG/SS Randomizers
+# Personal Pokemon Randomizer Rulesets
 
 ## Nuzlocke Rules
 - Must nickname each owned pokemon
@@ -6,6 +6,6 @@
 - Pokemon must be released if it dies
 
 ## Randomizer rules
-- Timing starts after the last prompt with Oak
-- Timing ends once Red is defeated
+- Timing starts when the game is turned on
+- Timing ends after the credits or the last meaningful action, whichever comes last
 - Glitches are not allowed
