@@ -1,4 +1,4 @@
-# Personal Pokemon Randomizer Rulesets
+# Personal Randomizer Rulesets
 
 ## Nuzlocke Rules
 - Must nickname each owned pokemon
